@@ -154,26 +154,9 @@ pydantic
 
 ---
 
-## 📊 Evaluation Criteria Mapping
-
-| Criteria | How AttentionX addresses it |
-|---|---|
-| **Impact (20%)** | Turns 1 hour of content into 3 viral clips automatically — real, measurable value |
-| **Innovation (20%)** | Cuts by meaning (emotion/sentiment), not just time — unique AI-first approach |
-| **Technical Execution (20%)** | Clean modular codebase, async jobs, multi-model fallback, robust error handling |
-| **User Experience (25%)** | Real-time progress UI, drag-and-drop upload, YouTube support, instant download |
-| **Presentation (15%)** | Demo video linked above with full working prototype walkthrough |
-
----
-
 ## 👨‍💻 Author
 
 **Navin Kumar Singh**  
 AttentionX AI Hackathon 2026 — UnsaidTalks
 
 ---
-
-## 📄 License
-
-This project was built for the **AttentionX AI Hackathon** organized by **UnsaidTalks Education**.  
-For queries: info@unsaidtalks.com | +91-7303573374
