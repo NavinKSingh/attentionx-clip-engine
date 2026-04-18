@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+yt-dlp
+openai-whisper
+moviepy
+google-generativeai
+groq
+opencv-python
+Pillow
+streamlit
+requests
+ffmpeg-python
+numpy<2
+torch
